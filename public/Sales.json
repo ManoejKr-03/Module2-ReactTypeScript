@@ -1,0 +1,11 @@
+[
+    { "name": "Laptop", "price": 1200, "inStock": true },
+    { "name": "Smartphone", "price": 800,   "inStock": true },
+    { "name": "Tablet", "price": 400,   "inStock": false },
+    { "name": "Headphones", "price": 150,  "inStock": true },
+    { "name": "Smartwatch", "price": 250,   "inStock": false },
+    { "name": "Camera", "price": 1000,  "inStock": true },
+    { "name": "Bluetooth Speaker", "price": 100,   "inStock": true },
+    { "name": "Gaming Console", "price": 500,  "inStock": false }
+  ]
+  
